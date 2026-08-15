@@ -13,7 +13,7 @@
 
 **DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare,nginx" alt="Docker, GitHub Actions, AWS, Cloudflare, Nginx" />&nbsp;<img src="https://img.shields.io/badge/Coolify-8E3FFF?style=plastic&logo=coolify&logoColor=white" height="48" alt="Coolify" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare,nginx" alt="GitHub Actions, AWS, Azure" />&nbsp;
 
 **Work environment**
 
