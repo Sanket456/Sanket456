@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Sanket</h1>
+<h3 align="center">A software engineer from Uttar Pradesh, India</h3>
 
 ## 🛠️ Tech stack
 
