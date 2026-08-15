@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">A software engineer from Uttar Pradesh, India</h3>
+<h3 align="center">A Data engineer from Uttar Pradesh, India</h3>
 
 ## 🛠️ Tech stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,bash" alt="Python, Bash" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=python,bash,SQL" alt="Python, Bash" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
 
 **Databases**
 
