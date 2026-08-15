@@ -20,10 +20,10 @@
 <img src="https://skillicons.dev/icons?i=neovim,git" alt="Neovim, Git" />&nbsp;<img src="https://img.shields.io/badge/Ghostty-1C1B1F?style=plastic&logo=ghostty&logoColor=white" height="48" alt="Ghostty" />&nbsp;<img src="https://img.shields.io/badge/Codex-000000?style=plastic&logo=openai&logoColor=white" height="48" alt="Codex" />&nbsp;<img src="https://img.shields.io/badge/Claude%20Code-D97706?style=plastic&logo=anthropic&logoColor=white" height="48" alt="Claude Code" />
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
+- Solve programming problems at LeetCode, Geeks For Geeks
 - Watch anime and TV shows
-- Read some manga
-- Play videogames
+- Gym
+- Travelling
 - etc...
 
 ## 💻 Current projects
