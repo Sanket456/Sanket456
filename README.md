@@ -5,11 +5,11 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,bash,SQL" alt="Python, Bash" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=python,bash" alt="Python, Bash" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="MySQL, PostgreSQL, Redis" />&nbsp;<img src="https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white" height="48" alt="Neo4j" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />&nbsp;
 
 **DevOps**
 
