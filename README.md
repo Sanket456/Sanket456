@@ -29,7 +29,7 @@
 ## 💻 Current projects
 - 
 - 
-  - 
+  - Spark Declarative Pipelines: End to End project
   - 
   - 
   - 
